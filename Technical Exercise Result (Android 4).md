@@ -42,12 +42,12 @@ fun saveThemeSetting(isDarkModeActive: Boolean) {
 > Kode yang tidak pernah digunakan baik itu Class, method, ataupun variable jika tidak digunakan sebaiknya dihapus. Kamu bisa memanfaatkan **Analyze - Code Cleanup** untuk melakukannya dengan cepat. Seperti contoh di atas method atau fungsi saveThemeSetting pada MainViewModel tidak pernah digunakan sehingga sebaiknya kode tersebut dihapus.
 > 
 
-![WhatsApp Image 2024-05-05 at 14.00.38_79f329cd.jpg](Technical%20Exercise%20Result%20(Android%204)%2047d02901c67c40708f82e509f48b4285/WhatsApp_Image_2024-05-05_at_14.00.38_79f329cd.jpg)
+![WhatsApp Image 2024-05-05 at 14.00.38_79f329cd.jpg](Image/WhatsApp_Image_2024-05-05_at_14.00.38_79f329cd.jpg)
 
 > Pada Halaman Detail daftar Following dan Follower tidak muncul saat orientasi diubah menjadi landscape. Anda dapat menggunakan Scroll View Layout pada halaman detail untuk menampilkan informasi dengan baik saat orientasi diubah menjadi landscape.
 > 
 
-![WhatsApp Image 2024-05-05 at 14.00.39_48afde80.jpg](Technical%20Exercise%20Result%20(Android%204)%2047d02901c67c40708f82e509f48b4285/903e2df5-b96c-4456-a4b3-314902de2331.png)
+![WhatsApp Image 2024-05-05 at 14.00.39_48afde80.jpg](Image/903e2df5-b96c-4456-a4b3-314902de2331.png)
 
 > Tampilan jumlah follower masih terpotong, sesuaikan ukuran Text View yang digunakan sehingga jumlah following dapat terlihat dengan jelas.
 >

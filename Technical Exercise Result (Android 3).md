@@ -37,7 +37,7 @@ fun rotateBitmap(bitmap: Bitmap, isBackCamera: Boolean = false): Bitmap {
 > Kode yang tidak pernah digunakan baik itu Class, method, ataupun variable jika tidak digunakan sebaiknya dihapus. Kamu bisa memanfaatkan **Analyze - Code Cleanup** untuk melakukannya dengan cepat.
 > 
 
-![WhatsApp Image 2024-05-07 at 18.01.46_6df03fae.jpg](Technical%20Exercise%20Result%20(Android%203)%20d6f9a4955449485a8491a57dd1f5c34c/WhatsApp_Image_2024-05-07_at_18.01.46_6df03fae.jpg)
+![WhatsApp Image 2024-05-07 at 18.01.46_6df03fae.jpg](Image/WhatsApp_Image_2024-05-07_at_18.01.46_6df03fae.jpg)
 
 > Pada Halaman Detail tampilan masih terpotong saat orientasi diubah menjadi landscape. Anda dapat menggunakan Scroll View Layout pada halaman detail untuk menampilkan informasi dengan baik saat orientasi diubah menjadi landscape.
 >

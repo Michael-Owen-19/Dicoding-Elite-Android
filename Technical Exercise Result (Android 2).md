@@ -12,12 +12,12 @@
 
 ## Code Review
 
-![WhatsApp Image 2024-05-05 at 18.34.28_a0cc358b.jpg](Technical%20Exercise%20Result%20(Android%202)%201eaec4ce08dc4e63a5dae0df240e5349/WhatsApp_Image_2024-05-05_at_18.34.28_a0cc358b.jpg)
+![WhatsApp Image 2024-05-05 at 18.34.28_a0cc358b.jpg](Image/WhatsApp_Image_2024-05-05_at_18.34.28_a0cc358b.jpg)
 
 > Pada Halaman Story Locations, tampilan google maps belum muncul. Silakan cek penggunaan Google Maps Android API v2 yang anda pakai apakah sudah sesuai atau belum. Jika sudah sesuai silakan cek apakah Google Maps Android API v2 yang anda gunakan sudah diaktifkan (enabled) atau belum.
 > 
 
-![WhatsApp Image 2024-05-06 at 14.53.15_4fa8d82f.jpg](Technical%20Exercise%20Result%20(Android%202)%201eaec4ce08dc4e63a5dae0df240e5349/WhatsApp_Image_2024-05-06_at_14.53.15_4fa8d82f.jpg)
+![WhatsApp Image 2024-05-06 at 14.53.15_4fa8d82f.jpg](Image/WhatsApp_Image_2024-05-06_at_14.53.15_4fa8d82f.jpg)
 
 > Pada Halaman Setting layout halaman masih terpotong saat orientasi diubah menjadi landscape. Anda dapat menggunakan Scroll View Layout pada halaman Setting agar dapat menampilkan informasi dengan baik saat orientasi diubah menjadi landscape.
 > 

@@ -15,12 +15,12 @@
 
 ## Code Review
 
-![Screenshot 2024-05-06 192406.png](Technical%20Exercise%20Result%20(Android%201)%2079de6e4885d440fda5b8c483b47bf2e7/Screenshot_2024-05-06_192406.png)
+![Screenshot 2024-05-06 192406.png](Image/Screenshot_2024-05-06_192406.png)
 
 > Folder Favorite memiliki konten yang tidak digunakan dalam fitur manapun pada aplikasi sehingga sebaiknya dihapus karena dapat mempengaruhi penggunaan memori dan performance aplikasi
 > 
 
-![WhatsApp Image 2024-05-06 at 19.31.37_c65dc369.jpg](Technical%20Exercise%20Result%20(Android%201)%2079de6e4885d440fda5b8c483b47bf2e7/WhatsApp_Image_2024-05-06_at_19.31.37_c65dc369.jpg)
+![WhatsApp Image 2024-05-06 at 19.31.37_c65dc369.jpg](Image/WhatsApp_Image_2024-05-06_at_19.31.37_c65dc369.jpg)
 
 > Pada Halaman Detail Movie layout halaman masih terpotong saat orientasi diubah menjadi landscape. Anda dapat menggunakan Scroll View Layout pada halaman detail agar dapat menampilkan informasi dengan baik saat orientasi diubah menjadi landscape.
 > 
